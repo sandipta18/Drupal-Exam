@@ -1,0 +1,29 @@
+uuid: 34bbdc77-2f0a-45da-9e29-ff3abda72b6c
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.front_page_category
+  module:
+    - system
+    - views
+  theme:
+    - bootstrap5
+id: views_block__front_page_category_block_1
+theme: bootstrap5
+region: sidebar_second
+weight: 0
+provider: null
+plugin: 'views_block:front_page_category-block_1'
+settings:
+  id: 'views_block:front_page_category-block_1'
+  label: ''
+  label_display: '0'
+  provider: views
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: '<front>'
