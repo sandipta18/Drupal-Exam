@@ -1,0 +1,8 @@
+uuid: 27febfe8-8956-465d-b5c0-bad7710a783a
+langcode: en
+status: true
+dependencies: {  }
+name: Category
+vid: item_type
+description: 'This vocabulary will be used to distinguish the type of item available on the website'
+weight: 0

@@ -1,0 +1,8 @@
+uuid: ee0ff520-bd44-44bf-bca0-a8d03075487c
+langcode: en
+status: true
+dependencies: {  }
+id: custom-menu
+label: 'Custom Menu'
+description: 'This menu will contain the Login link and become a seller webform link'
+locked: false

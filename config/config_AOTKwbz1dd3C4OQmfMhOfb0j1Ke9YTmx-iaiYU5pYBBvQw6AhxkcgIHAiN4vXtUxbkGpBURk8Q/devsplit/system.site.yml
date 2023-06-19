@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: en
+uuid: 0f4c9f55-9ddf-45b1-93d5-43a5df56767e
+name: 'Innoraft Employee Management Portal'
+mail: sandiptasardar99@gmail.com
+slogan: ''
+page:
+  403: /node/44
+  404: /node/43
+  front: /home
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en

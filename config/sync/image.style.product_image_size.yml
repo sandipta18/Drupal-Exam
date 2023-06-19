@@ -1,0 +1,14 @@
+uuid: e8ca1a93-627f-4730-aa55-65cbe43888c2
+langcode: en
+status: true
+dependencies: {  }
+name: product_image_size
+label: 'Product Image Size'
+effects:
+  d293ee94-b7c6-46a1-a9b9-69f48ad89601:
+    uuid: d293ee94-b7c6-46a1-a9b9-69f48ad89601
+    id: image_resize
+    weight: 1
+    data:
+      width: 100
+      height: 100

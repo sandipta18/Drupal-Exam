@@ -1,0 +1,12 @@
+uuid: 23b8129e-383f-4007-8c5c-29b1753bede0
+langcode: en
+status: true
+dependencies:
+  module:
+    - taxonomy
+id: content_admin_2
+label: 'Content Admin 2'
+weight: 5
+is_admin: null
+permissions:
+  - 'administer taxonomy'

@@ -1,0 +1,12 @@
+uuid: fdc81394-9c05-46bc-903f-46daa62b881d
+langcode: en
+status: true
+dependencies:
+  module:
+    - taxonomy
+id: content_admin_3
+label: 'Content Admin 3'
+weight: 6
+is_admin: null
+permissions:
+  - 'administer taxonomy'
